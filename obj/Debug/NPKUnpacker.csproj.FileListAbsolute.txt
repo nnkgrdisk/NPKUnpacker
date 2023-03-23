@@ -1,0 +1,6 @@
+C:\Program Files\CSProjects\提取NPK\bin\Debug\NPKUnpacker.exe.config
+C:\Program Files\CSProjects\提取NPK\bin\Debug\NPKUnpacker.exe
+C:\Program Files\CSProjects\提取NPK\bin\Debug\NPKUnpacker.pdb
+C:\Program Files\CSProjects\提取NPK\obj\Debug\NPKUnpacker.csproj.CoreCompileInputs.cache
+C:\Program Files\CSProjects\提取NPK\obj\Debug\NPKUnpacker.exe
+C:\Program Files\CSProjects\提取NPK\obj\Debug\NPKUnpacker.pdb
